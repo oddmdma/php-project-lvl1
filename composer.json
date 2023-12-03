@@ -1,0 +1,10 @@
+{
+    "name": "hexlet/code",
+    "authors": [
+        {
+            "name": "Sergey Burukhin",
+            "email": "oddmdma@gmail.com"
+        }
+    ],
+    "require": {}
+}
