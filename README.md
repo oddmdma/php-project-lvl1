@@ -14,5 +14,4 @@ $ composer global require oddmdma/php-project-lvl1
 ```sh
 $ brain-even
 ```
-[![asciicast](https://asciinema.org/a/Zcq5JxJ71q3rkKVJYDApNUPzZ
-)](https://asciinema.org/a/Zcq5JxJ71q3rkKVJYDApNUPzZ)
+Demo [https://asciinema.org/a/Zcq5JxJ71q3rkKVJYDApNUPzZ](https://asciinema.org/a/Zcq5JxJ71q3rkKVJYDApNUPzZ)
