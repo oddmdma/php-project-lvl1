@@ -41,3 +41,12 @@ $ brain-progression
 
 Demo [https://asciinema.org/a/y2GInnB5mpOZIVcQGGZxRlaqU
 ](https://asciinema.org/a/y2GInnB5mpOZIVcQGGZxRlaqU)
+
+
+### Brain-prime
+```sh
+$ brain-prime
+```
+
+Demo [https://asciinema.org/a/fNQUSNEh4HhjqiqtKe2AQALyr
+](https://asciinema.org/a/fNQUSNEh4HhjqiqtKe2AQALyr)
