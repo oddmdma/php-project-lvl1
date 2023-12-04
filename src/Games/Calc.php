@@ -24,7 +24,7 @@ function init(): void
                 $correctAnswer = $firstNumber * $secondNumber;
                 break;
         }
-        return [$question, (string) $correctAnswer];
+        return [$question, (string)$correctAnswer];
     };
     run($gameName, $gameData);
 }

@@ -4,7 +4,7 @@ namespace BrainGames\Games\Prime;
 
 use function BrainGames\Engine\run;
 
-function init():void
+function init(): void
 {
     $gameDescription = 'Answer "yes" if given number is prime. Otherwise answer "no".';
     $getGameData = function () {
