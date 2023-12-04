@@ -23,3 +23,12 @@ $ brain-calc
 
 Demo [https://asciinema.org/a/LOdT0ksuLIIuuzhHjcWxnU5c0
 ](https://asciinema.org/a/LOdT0ksuLIIuuzhHjcWxnU5c0)
+
+
+### Brain-gcd
+```sh
+$ brain-gcd
+```
+
+Demo [https://asciinema.org/a/PJOmbuAySSphmKRlcvJobCFhu
+](https://asciinema.org/a/PJOmbuAySSphmKRlcvJobCFhu)
