@@ -15,3 +15,11 @@ $ composer global require oddmdma/php-project-lvl1
 $ brain-even
 ```
 Demo [https://asciinema.org/a/Zcq5JxJ71q3rkKVJYDApNUPzZ](https://asciinema.org/a/Zcq5JxJ71q3rkKVJYDApNUPzZ)
+
+### Brain-calc
+```sh
+$ brain-calc
+```
+
+Demo [https://asciinema.org/a/LOdT0ksuLIIuuzhHjcWxnU5c0
+](https://asciinema.org/a/LOdT0ksuLIIuuzhHjcWxnU5c0)
