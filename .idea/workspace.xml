@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="18965b1d-efc6-4e74-bf52-c92372042842" name="Changes" comment="Add asciicast">
+    <list default="true" id="18965b1d-efc6-4e74-bf52-c92372042842" name="Changes" comment="Cleanup">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
@@ -120,7 +121,7 @@
       <workItem from="1701646274749" duration="1003000" />
       <workItem from="1701647305626" duration="1301000" />
       <workItem from="1701648626601" duration="1340000" />
-      <workItem from="1701687713614" duration="1863000" />
+      <workItem from="1701687713614" duration="1922000" />
     </task>
     <task id="LOCAL-00001" summary="Initial commit">
       <option name="closed" value="true" />
@@ -178,7 +179,15 @@
       <option name="project" value="LOCAL" />
       <updated>1701689390035</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Cleanup">
+      <option name="closed" value="true" />
+      <created>1701689595894</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1701689595894</updated>
+    </task>
+    <option name="localTasksCounter" value="9" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -193,6 +202,7 @@
     <MESSAGE value="Add php_codesniffer" />
     <MESSAGE value="Add brain even game" />
     <MESSAGE value="Add asciicast" />
-    <option name="LAST_COMMIT_MESSAGE" value="Add asciicast" />
+    <MESSAGE value="Cleanup" />
+    <option name="LAST_COMMIT_MESSAGE" value="Cleanup" />
   </component>
 </project>
