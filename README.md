@@ -32,3 +32,12 @@ $ brain-gcd
 
 Demo [https://asciinema.org/a/PJOmbuAySSphmKRlcvJobCFhu
 ](https://asciinema.org/a/PJOmbuAySSphmKRlcvJobCFhu)
+
+
+### Brain-progression
+```sh
+$ brain-progression
+```
+
+Demo [https://asciinema.org/a/y2GInnB5mpOZIVcQGGZxRlaqU
+](https://asciinema.org/a/y2GInnB5mpOZIVcQGGZxRlaqU)
